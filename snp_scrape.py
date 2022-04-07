@@ -20,5 +20,6 @@ for row in rows:
     names.append(name[:-1])
 
 df = pd.DataFrame(list(zip(tickers, names)))
-#print(df)
-#df.to_csv('otherdata/sp500names.csv', index=False)
+print(df)
+#df.to_csv('sp500.csv', index=False)
+#df.to_sql()

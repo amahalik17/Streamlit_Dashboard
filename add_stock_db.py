@@ -1,7 +1,7 @@
 # Import dependencies
-import sqlite3
-from config import db_path, api_key
-import requests
+# import sqlite3
+# from config import db_path, api_key
+# import requests
 
 
 #response = requests.get(f'https://financialmodelingprep.com/api/v3/available-traded/list?apikey={api_key}').json()
