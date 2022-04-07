@@ -1,8 +1,9 @@
 streamlit
 pandas
 numpy
-psycopg2
+#psycopg2
 requests
-plotly
+#plotly
 bs4
 yfinance
+YahooFinancials
