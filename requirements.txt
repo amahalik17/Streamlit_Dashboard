@@ -1,9 +1,9 @@
 streamlit
 pandas
-numpy
+#numpy
 #psycopg2
-requests
+#requests
 #plotly
 bs4
 yfinance
-YahooFinancials
+#YahooFinancials
